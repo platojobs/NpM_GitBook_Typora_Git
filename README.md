@@ -3,14 +3,16 @@ NpM_GitBook_Typora_Git组合使用
 
 ### GitBook 是基于 Node.js，所以我们首先需要安装 Node.js
 
-[Node.js]()
+[Node.js](https://github.com/PlatoJobs/NpM_GitBook_Typora_Git/blob/master/node-v12.2.0.pkg)
 
 + 现在安装 `Node.js` 都会默认安装 `npm（node 包管理工具）`，所以我们不用单独安装 `npm`，打开命令行，执行以下命令安装 `GitBook`
 ```linux
 npm install -g gitbook-cli
 ```
 + 安装Typora
-[Typora](https://typora.io) 切记需要翻墙
+  1. [Typora](https://typora.io) 切记需要翻墙
+
+  2. [本地Typora](https://typora.io) 下载安装即可
 
 
 
