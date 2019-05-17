@@ -12,7 +12,7 @@ npm install -g gitbook-cli
 + 安装Typora
   1. [Typora](https://typora.io) 切记需要翻墙
 
-  2. [本地Typora](https://typora.io) 下载安装即可
+  2. [本地Typora](https://github.com/PlatoJobs/NpM_GitBook_Typora_Git/blob/master/Typora.dmg) 下载安装即可
 
 
 
