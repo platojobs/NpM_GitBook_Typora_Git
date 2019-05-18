@@ -58,3 +58,7 @@ added 578 packages from 672 contributors in 28.567s
 
 
 ```
+
+`gitbook init` 在书的文件下，输入此命令
+或者`gitbook build`构建一个书的版本，然后再用`git`来管理
+
